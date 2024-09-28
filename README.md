@@ -18,7 +18,7 @@ This platform can be used for a variety of applications such as:
 - **Data Compression**: Optionally compresses data streams for better network performance.
 - **Cross-Platform**: Designed to work on both Linux and Windows systems.
 
-## Technologies Used
+## Technologies
 - **C++17**: Modern C++ features for clean and efficient code.
 - **POSIX Sockets**: For cross-platform networking.
 - **TCP/IP & UDP Multicast**: Network communication protocols for reliable and fast data transfer.
